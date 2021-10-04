@@ -31,6 +31,8 @@ new configure project.
 * After configarutation, find and disable options:
 * BUILD_PROTOBUF
 * BUILD_opencv_dnn
+* BUILD_TIFF
+* WITH_TIFF
 
 new configure project and generate.
 
